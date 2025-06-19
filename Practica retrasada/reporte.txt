@@ -1,0 +1,12 @@
+REPORTE MENSUAL DE INGRESOS E IMPUESTOS
+NIT: 2002435
+Nombre: gas monkey
+Empresa: gas monkey
+Ingreso bruto mensual: Q1000000.00
+Pago neto mensual: Q897080.00
+Impuestos empleado (mensual): Q102920.00
+Impuestos empresa (mensual): Q126700.00
+Total impuestos mensuales: Q229620.00
+Tipo impositivo marginal: 11.50%
+Tipo impositivo medio empleado: 10.29%
+Tasa real total: 22.96%
